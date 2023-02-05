@@ -88,7 +88,7 @@
             {% endfor %}
           ]
         }</script>
-        
+
         <p class="paper_authors"></p>
         <p class="paper_affiliations">
           {% for affi in page.affiliations -%}
@@ -166,6 +166,7 @@
         <div class="paper_content">
           {{ content }}
         </div>
+
       </d-article>
 
       <d-appendix>
@@ -187,7 +188,12 @@
     <!-- Footer -->
     {%- include footer.html %}
 
+    {% include scripts/jquery.html %}
     {% include scripts/bootstrap.html %}
+    {% include scripts/masonry.html %}
+    {% include scripts/misc.html %}
+    {% include scripts/badges.html %}
+    {% include scripts/mathjax.html %}
     {% include scripts/analytics.html %}
     {% include scripts/progressBar.html %}
   </body>

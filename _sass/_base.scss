@@ -751,8 +751,6 @@ progress {
   }
 }
 .paper_content {
-  text-indent: 2rem;
-  word-break: keep-all;
   h1 {
    margin-top: 0.4rem;
    text-align: center;
@@ -770,4 +768,9 @@ progress {
     margin-bottom: 0.4rem;
     padding-bottom: 0.4rem;
   }
+  .centered {
+    margin: auto;
+    text-align: center;
+  }
 }
+
