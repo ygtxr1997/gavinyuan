@@ -150,7 +150,7 @@ Given a target face $$C_a$$ and a source one $$C_b$$ from real scenarios, we use
 <h2>2. Video Face Swapping</h2>
 
 <p style="text-align: center;">
-    <video width="100%" poster="/assets/img/super_swap/demo_poster.jpg" controls autoplay="autoplay">
+    <video width="100%" poster="/assets/img/super_swap/demo_poster.jpg" controls>
         <source src="/assets/img/super_swap/demo.mp4" type="video/mp4">
         <object data="/assets/img/super_swap/demo.mp4" width="100%" >
           <embed src="/assets/img/super_swap/demo.mp4" width="100%" >
@@ -160,8 +160,8 @@ Given a target face $$C_a$$ and a source one $$C_b$$ from real scenarios, we use
 
 <h1>Reference</h1>
 
-Almost all advanced face swapping approaches use reconstruction as the proxy task, i.e., the supervision only exists when the training target and the source belong to the same person. Otherwise, lacking pixel-level supervision, these methods struggle for source identity preservation. This paper proposes to construct reliable supervision, dubbed **cycle triplets**, serving as the image-level guidance when the source identity differs from the target one. Specifically, we first use real face pairs to produce synthetic ones via traditional image blending techniques in computer graphics, aiming at preserving true identity of the source. Then based on the cycle relationship among real and synthetic faces, we reversely take synthetic ones as training inputs while real ones as supervisions to avoid the inheritance of artifacts in blended faces. Moreover, the identity extractors in previous method are face recognition models that cares about distinct facial features globally but tends to ignore some local attributes easy to recognize by human, particularly in nose, mouth, and face shape. To remedy this issue, we propose a **LowerNet** focusing on details of lower face. Our face swapping framework, named **SuperSwap**, does not depend on a specific backbone, where any existing network can be treated as a plug-in component. Extensive experiments demonstrate the efficacy of our SuperSwap, especially in identity preservation.
+Coming soon.
 
 <h1>Acknowledgements</h1>
 
-Almost all advanced face swapping approaches use reconstruction as the proxy task, i.e., the supervision only exists when the training target and the source belong to the same person. Otherwise, lacking pixel-level supervision, these methods struggle for source identity preservation. This paper proposes to construct reliable supervision, dubbed **cycle triplets**, serving as the image-level guidance when the source identity differs from the target one. Specifically, we first use real face pairs to produce synthetic ones via traditional image blending techniques in computer graphics, aiming at preserving true identity of the source. Then based on the cycle relationship among real and synthetic faces, we reversely take synthetic ones as training inputs while real ones as supervisions to avoid the inheritance of artifacts in blended faces. Moreover, the identity extractors in previous method are face recognition models that cares about distinct facial features globally but tends to ignore some local attributes easy to recognize by human, particularly in nose, mouth, and face shape. To remedy this issue, we propose a **LowerNet** focusing on details of lower face. Our face swapping framework, named **SuperSwap**, does not depend on a specific backbone, where any existing network can be treated as a plug-in component. Extensive experiments demonstrate the efficacy of our SuperSwap, especially in identity preservation.
+Coming soon.
