@@ -10,19 +10,21 @@ date: 2023-02-03
 
 authors:
   - name: Ge Yuan
-    url: "https://en.wikipedia.org/wiki/Albert_Einstein"
+    url: "https://ygtxr1997.github.io"
     affiliations: '1,2'
     equal: True
   - name: Maomao Li
-    url: "https://en.wikipedia.org/wiki/Boris_Podolsky"
+    url: "https://scholar.google.com/citations?hl=en&user=ym_t6QYAAAAJ"
     affiliations: '2'
     equal: True
   - name: Yong Zhang
-    url: "https://en.wikipedia.org/wiki/Nathan_Rosen"
+    url: "https://yzhang2016.github.io/yongnorriszhang.github.io/"
     affiliations: '2'
   - name: Ying Shan
+    url: "https://scholar.google.com/citations?hl=en&user=4oXBp9UAAAAJ"
     affiliations: '2'
   - name: Huicheng Zheng
+    url: "https://cse.sysu.edu.cn/content/2481"
     affiliations: '1'
     corresponding: True
 
@@ -149,14 +151,9 @@ Given a target face $$C_a$$ and a source one $$C_b$$ from real scenarios, we use
 
 <h2>2. Video Face Swapping</h2>
 
-<p style="text-align: center;">
-    <video width="100%" poster="/assets/img/super_swap/demo_poster.jpg" controls>
-        <source src="/assets/img/super_swap/demo.mp4" type="video/mp4">
-        <object data="/assets/img/super_swap/demo.mp4" width="100%" >
-          <embed src="/assets/img/super_swap/demo.mp4" width="100%" >
-        </object>
-    </video>
-</p>
+<div class="centered container">
+  <iframe class="video" width="100%" src="https://www.youtube.com/embed/uqe4pD-XpGE"></iframe> 
+</div>
 
 <h1>Reference</h1>
 
