@@ -92,7 +92,8 @@
         <p class="paper_authors"></p>
         <p class="paper_affiliations">
           {% for affi in page.affiliations -%}
-          <p class="paper_affiliations"><sup>{{ affi.idx }}</sup>{{ affi.name }}</p>
+          <sup>{{ affi.idx }}</sup>{{ affi.name }}
+            {% if forloop.last == false %}&nbsp;&nbsp;{% endif %}
           {% endfor %}
         </p>
         <p class="paper_authors_note"></p>
