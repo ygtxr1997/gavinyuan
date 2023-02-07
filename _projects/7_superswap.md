@@ -43,7 +43,7 @@ links:
   - name: "Demo"
     url: "https://huggingface.com"
 
-bibliography: 2023-02-03-superswap.bib
+bibliography: 2023-02-03-.bib
 ---
 
 <div class="row">
