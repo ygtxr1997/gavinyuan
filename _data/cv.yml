@@ -35,7 +35,7 @@
   contents:
     - title: <a href="">Inserting Anybody in Diffusion Models via Celeb Basis</a>
       year: ArXiv, 2023
-      description: Intergrating a unique individual into the pre-trained diffusion model with: one face, 1024 parameters, in 3 minutes.
+      description: Intergrating a unique individual into the pre-trained diffusion model with one face, 1024 parameters, in 3 minutes.
 
 - title: Honors and Awards
   type: time_table
@@ -57,4 +57,4 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Photographing, PTCG.
