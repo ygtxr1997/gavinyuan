@@ -2,31 +2,21 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Ge Yuan (袁格)
     - name: Date of Birth
-      value: 14th March 1879
+      value: 15th August 1997
     - name: Languages
-      value: English, German
+      value: Chinese, English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Master in Computer Science and Technology (CS)
+      institution: Sun Yat-sen University (SYSU), Guangzhou, China
+      year: Sep. 2020 - Jun. 2023
+    - title: B.S. in Information Security (CS)
+      institution: Huazhong University of Science and Technology (HUST), Wuhan, China
+      year: Sep. 2014 - Jun. 2018
 
 - title: Experience
   type: time_table
