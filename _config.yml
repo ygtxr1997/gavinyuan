@@ -251,7 +251,7 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 scholar:
 
   last_name: [Yuan]
-  first_name: [Ge]
+  first_name: [Ge, G.]
 
   style: apa
   locale: en
