@@ -1,6 +1,6 @@
 ---
 layout: paper
-title: 'ReliableSwap: Boosting General Face Swapping Via Reliable Supervision'
+title: 'ReliableSwap'
 description: 'Under reviewed'
 img: assets/img/reliable_swap/fr_weakness.png
 importance: 1
