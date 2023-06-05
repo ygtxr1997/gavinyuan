@@ -5,7 +5,7 @@ permalink: /projects/
 description: TBD
 nav: true
 nav_order: 2
-display_categories: [paper, work, fun]
+display_categories: [paper, work]
 horizontal: false
 ---
 
