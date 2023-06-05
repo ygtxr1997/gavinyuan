@@ -6,7 +6,7 @@ subtitle: <a href='https://www.sysu.edu.cn/sysuen/'>Sun Yat-sen University, Chin
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: my_photo.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Email: gavinyuan97@gmail.com </p>
