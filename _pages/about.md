@@ -22,4 +22,4 @@ I am Ge Yuan (袁格), a M.S student from Computer Science School in Sun Yat-sen
 I received my B.S degree in Computer Science from [Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn/).
 I worked as a research intern in [Tencent AI Lab](https://ai.tencent.com/ailab/en/index) from *Apr. 2022* to *now* (expected to end my internship in *2023/06/30*), supervised by [Maomao Li](https://scholar.google.com/citations?user=ym_t6QYAAAAJ&hl=zh-CN&oi=sra), [Xiaodong Cun](https://vinthony.github.io/academic/), [Yong Zhang](https://yzhang2016.github.io/), [Xintao Wang](https://xinntao.github.io/), and [Ying Shan](https://scholar.google.com/citations?hl=zh-CN&user=4oXBp9UAAAAJ).
 
-<font color="#0d66dd">[I am applying for CS PhD program (enrolling before Oct. 2024) in AIGC research topics, please email me if you are interested!]</font>
+<font color="#0d66dd">[I am applying for CS PhD program (enrolling before Oct. 2024) in AIGC research topics, please email me if you consider me!]</font>
