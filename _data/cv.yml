@@ -38,10 +38,10 @@
       description: Intergrating a unique individual into the pre-trained diffusion model with one face, 1024 parameters, in 3 minutes.
     - title: <a href="https://github.com/ygtxr1997/ReliableSwap">ReliableSwap Boosting General Face Swapping Via Reliable Supervision</a>
       year: ArXiv, 2023
-      description: Intergrating a unique individual into the pre-trained diffusion model with one face, 1024 parameters, in 3 minutes.
-    - title: <a href="https://github.com/ygtxr1997/MSML">MSML':' Enhancing Occlusion-Robustness by Multi-Scale Segmentation-Based Mask Learning for Face Recognition</a>
-      year: ArXiv, 2023
-      description: Intergrating a unique individual into the pre-trained diffusion model with one face, 1024 parameters, in 3 minutes.
+      description: A general face swapping framework that solves non-supervision issue, where fake images as input and real ones as supervisions.
+    - title: <a href="https://github.com/ygtxr1997/MSML">MSML Enhancing Occlusion-Robustness by Multi-Scale Segmentation-Based Mask Learning for Face Recognition</a>
+      year: AAAI, 2022
+      description: Identify and remove the occlusions from feature representations at multiple levels and aggregate features from visible facial areas.
 
 - title: Honors and Awards
   type: time_table
