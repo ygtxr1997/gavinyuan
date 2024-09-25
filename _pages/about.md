@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.sysu.edu.cn/sysuen/'>Sun Yat-sen University, China</a>. <a href='gavinyuan97@gmail.com'>gavinyuan97@gmail.com</a>. <a href='https://github.com/ygtxr1997'>GitHub</a>
+subtitle: <a href='https://www.sysu.edu.cn/sysuen/'>The University of Hong Kong (HKU), China</a>. <a href='gavinyuan97@gmail.com'>gavinyuan97@gmail.com</a>. <a href='https://github.com/ygtxr1997'>GitHub</a>
 
 profile:
   align: right
